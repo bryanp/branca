@@ -20,4 +20,5 @@ Gem::Specification.new do |spec|
   spec.require_path = "lib"
 
   spec.add_dependency "b3bm", "~> 0.0.0"
+  spec.add_dependency "core-global", "~> 0.0.0"
 end
